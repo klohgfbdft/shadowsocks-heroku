@@ -1,10 +1,10 @@
 {
-  "server": "onplus.herokuapp.com",
+  "server": "klohgfbdft.herokuapp.com",
   "local_address": "0.0.0.0",
   "scheme": "ws",
   "local_port": 1080,
-  "remote_port": 80,
-  "password": "onplus",
+  "remote_port": 443,
+  "password": "klohgfbdft",
   "timeout": 600,
   "method": "aes-256-cfb"
 }
